@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "258336916179",
+    "firebase_url": "https://reddit-images-de94e.firebaseio.com",
+    "project_id": "reddit-images-de94e",
+    "storage_bucket": "reddit-images-de94e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258336916179:android:fa829946c161caf4",
+        "android_client_info": {
+          "package_name": "com.cullective.cullective"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258336916179-6e4g6kcr5n5vm8gehro90l78e31rq4ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4kYXsUy7VFtsQ3N9P0Zb1U-7e4K4664"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258336916179:android:d2bed7d9a76fb2ff",
+        "android_client_info": {
+          "package_name": "com.redditimages.redditimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258336916179-6e4g6kcr5n5vm8gehro90l78e31rq4ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4kYXsUy7VFtsQ3N9P0Zb1U-7e4K4664"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
